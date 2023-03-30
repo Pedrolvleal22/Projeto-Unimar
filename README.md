@@ -1,4 +1,4 @@
- # Pedro
+ # Pedro Lucas Vasconcelos Leal
 
   ---
 
@@ -7,7 +7,7 @@
 
   - Idade: 22
   - Email: xxxxxxxxxxxxxx@xxxxx.xxx
-  - Celular: 
+  - Celular: (xx)xxxxx - xxxx
 
 ---
 
@@ -20,6 +20,11 @@
 
   - SESI Ourinhos
   - Unimar - Analise e Desenvolvimento de Sistemas
+
+## Habilidades
+
+  - Tomada de Decisões
+  - Inteligência Emocional
 
   
 
