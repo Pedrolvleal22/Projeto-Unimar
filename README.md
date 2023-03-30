@@ -15,5 +15,11 @@
 
   - ADS Unimar
 
+
+## Educação
+
+  - SESI Ourinhos
+  - Unimar - Analise e Desenvolvimento de Sistemas
+
   
 
