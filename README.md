@@ -25,7 +25,6 @@
 
   - Tomada de Decisões
   - Inteligência Emocional
-  - Tudo
-
+  
   
 
